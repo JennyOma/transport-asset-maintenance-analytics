@@ -1,0 +1,45 @@
+# Terraform
+**/.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+*.tfplan
+crash.log
+crash.*.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Credentials and secrets
+.env
+.env.*
+.aws/
+*.pem
+*.key
+*.pfx
+credentials
+secrets/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Power BI local settings and caches
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+
+# Temporary files
+~$*
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Keep original workbooks private
+*.pbix
+*.xlsx

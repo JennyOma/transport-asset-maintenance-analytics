@@ -1,0 +1,501 @@
+asset_id,asset_type,location,installation_date,criticality,operational_status
+A0001,Platform Equipment,Station B,2010-07-24,Low,Operational
+A0002,Lift,Station C,2012-04-19,Low,Operational
+A0003,CCTV,Station B,2023-03-31,Medium,Operational
+A0004,Escalator,Station D,2015-03-21,Low,Operational
+A0005,CCTV,Station D,2024-07-29,Low,Operational
+A0006,Lift,Station H,2023-03-21,Medium,Operational
+A0007,Escalator,Station C,2019-06-25,Medium,Operational
+A0008,Lift,Station F,2012-04-17,High,Operational
+A0009,Ticket Machine,Station F,2023-07-17,Medium,Operational
+A0010,Platform Equipment,Station H,2022-01-10,High,Under Maintenance
+A0011,Ticket Gate,Station B,2022-05-20,Medium,Operational
+A0012,CCTV,Station F,2022-12-13,High,Operational
+A0013,Escalator,Station D,2016-06-28,High,Operational
+A0014,Escalator,Station G,2016-03-27,Medium,Operational
+A0015,Ticket Machine,Station C,2018-04-21,Medium,Operational
+A0016,Ticket Machine,Station B,2023-08-31,Low,Operational
+A0017,Platform Equipment,Station D,2013-08-31,Medium,Operational
+A0018,Platform Equipment,Station I,2014-12-05,Low,Operational
+A0019,Escalator,Station D,2010-09-20,Medium,Operational
+A0020,Escalator,Station D,2022-09-21,Low,Operational
+A0021,Platform Equipment,Station H,2018-11-16,Low,Operational
+A0022,Ticket Machine,Station C,2015-07-14,Low,Operational
+A0023,Ticket Machine,Station J,2019-08-11,Low,Operational
+A0024,Lift,Station C,2021-06-06,Medium,Operational
+A0025,Escalator,Station B,2013-06-06,Low,Operational
+A0026,Platform Equipment,Station G,2023-05-18,High,Operational
+A0027,CCTV,Station H,2021-11-13,Medium,Under Maintenance
+A0028,Escalator,Station B,2022-01-16,Medium,Operational
+A0029,Ticket Machine,Station B,2016-08-01,Medium,Operational
+A0030,Escalator,Station E,2021-03-24,High,Operational
+A0031,Escalator,Station E,2024-05-01,Low,Operational
+A0032,Lift,Station F,2013-08-16,Low,Under Maintenance
+A0033,CCTV,Station A,2023-06-08,Medium,Operational
+A0034,Escalator,Station F,2016-11-24,High,Operational
+A0035,CCTV,Station B,2011-12-03,Low,Operational
+A0036,Escalator,Station I,2012-10-27,High,Operational
+A0037,CCTV,Station C,2015-12-12,Low,Operational
+A0038,Ticket Gate,Station D,2022-02-04,Low,Operational
+A0039,Platform Equipment,Station E,2018-12-13,Low,Operational
+A0040,Ticket Gate,Station I,2020-02-16,High,Operational
+A0041,Escalator,Station F,2010-06-22,Low,Operational
+A0042,CCTV,Station D,2010-02-28,High,Operational
+A0043,Escalator,Station D,2011-07-07,High,Operational
+A0044,Escalator,Station I,2015-05-04,Medium,Operational
+A0045,Lift,Station I,2012-12-19,Low,Out of Service
+A0046,CCTV,Station J,2020-08-08,High,Operational
+A0047,Ticket Gate,Station D,2012-02-12,High,Operational
+A0048,Ticket Machine,Station G,2019-03-22,Medium,Operational
+A0049,Escalator,Station B,2011-05-12,Medium,Operational
+A0050,Escalator,Station D,2014-04-19,High,Operational
+A0051,Lift,Station G,2014-02-12,Medium,Operational
+A0052,Escalator,Station H,2022-05-06,High,Operational
+A0053,CCTV,Station A,2012-02-04,High,Operational
+A0054,Ticket Gate,Station H,2014-10-18,Medium,Out of Service
+A0055,Lift,Station G,2010-01-18,Medium,Operational
+A0056,Ticket Gate,Station E,2019-06-28,Low,Under Maintenance
+A0057,CCTV,Station H,2013-06-22,High,Operational
+A0058,Escalator,Station J,2022-02-28,High,Operational
+A0059,Escalator,Station A,2023-02-07,Medium,Operational
+A0060,CCTV,Station C,2011-04-11,Low,Operational
+A0061,Lift,Station B,2023-05-07,High,Operational
+A0062,Lift,Station G,2012-09-09,Low,Operational
+A0063,CCTV,Station A,2023-11-22,High,Operational
+A0064,CCTV,Station J,2021-09-22,Medium,Out of Service
+A0065,Lift,Station F,2015-05-10,Medium,Operational
+A0066,Platform Equipment,Station E,2020-04-03,Medium,Out of Service
+A0067,Escalator,Station A,2020-04-12,Low,Under Maintenance
+A0068,Escalator,Station B,2022-01-22,High,Operational
+A0069,Lift,Station F,2011-07-18,High,Operational
+A0070,Lift,Station H,2022-03-09,Low,Operational
+A0071,Platform Equipment,Station I,2010-03-06,Low,Operational
+A0072,Ticket Machine,Station B,2013-01-05,Medium,Operational
+A0073,Escalator,Station I,2013-06-27,Medium,Operational
+A0074,Lift,Station F,2014-07-26,Low,Operational
+A0075,Ticket Machine,Station I,2020-12-16,Medium,Out of Service
+A0076,Escalator,Station B,2024-03-24,Medium,Operational
+A0077,Escalator,Station A,2017-06-25,High,Operational
+A0078,Ticket Machine,Station C,2019-11-29,Low,Operational
+A0079,CCTV,Station A,2012-07-05,High,Under Maintenance
+A0080,Platform Equipment,Station C,2022-03-28,High,Operational
+A0081,CCTV,Station I,2013-04-28,Medium,Operational
+A0082,Ticket Machine,Station F,2010-11-23,Medium,Operational
+A0083,Lift,Station B,2017-12-07,Low,Operational
+A0084,Ticket Gate,Station J,2013-06-20,High,Operational
+A0085,Lift,Station G,2010-07-23,High,Operational
+A0086,Ticket Machine,Station G,2015-07-26,Medium,Operational
+A0087,Platform Equipment,Station B,2018-07-31,High,Operational
+A0088,Lift,Station D,2020-04-28,Medium,Operational
+A0089,Lift,Station D,2010-07-13,Low,Operational
+A0090,Ticket Machine,Station E,2011-07-23,Medium,Operational
+A0091,CCTV,Station G,2022-01-10,Medium,Out of Service
+A0092,Escalator,Station E,2014-01-02,Low,Under Maintenance
+A0093,Ticket Machine,Station A,2012-06-07,Low,Operational
+A0094,Platform Equipment,Station F,2019-10-15,Low,Under Maintenance
+A0095,Escalator,Station G,2022-12-07,High,Operational
+A0096,Platform Equipment,Station G,2010-01-14,Low,Out of Service
+A0097,CCTV,Station D,2018-03-03,Medium,Operational
+A0098,Platform Equipment,Station F,2023-12-23,Medium,Operational
+A0099,Escalator,Station E,2021-05-17,Medium,Operational
+A0100,Ticket Machine,Station G,2016-08-19,Low,Operational
+A0101,Ticket Gate,Station G,2013-11-26,Low,Operational
+A0102,Ticket Gate,Station I,2010-01-04,Medium,Operational
+A0103,Ticket Gate,Station J,2023-08-10,Low,Operational
+A0104,Ticket Gate,Station H,2014-10-17,Low,Operational
+A0105,Platform Equipment,Station C,2024-10-11,High,Operational
+A0106,Platform Equipment,Station J,2017-07-08,High,Operational
+A0107,Lift,Station E,2015-01-15,High,Operational
+A0108,Escalator,Station D,2020-08-28,Low,Operational
+A0109,Escalator,Station H,2019-04-19,Low,Operational
+A0110,Platform Equipment,Station G,2021-02-01,Medium,Operational
+A0111,Platform Equipment,Station A,2012-05-23,Medium,Operational
+A0112,Platform Equipment,Station I,2020-06-02,High,Operational
+A0113,Escalator,Station H,2012-12-28,Medium,Operational
+A0114,CCTV,Station J,2017-02-12,Medium,Operational
+A0115,Platform Equipment,Station I,2019-07-28,Low,Operational
+A0116,Lift,Station H,2020-02-04,Medium,Operational
+A0117,Platform Equipment,Station E,2021-09-10,Medium,Operational
+A0118,Ticket Machine,Station H,2011-09-27,Low,Operational
+A0119,Ticket Machine,Station F,2017-03-04,Low,Operational
+A0120,Lift,Station D,2018-08-04,Low,Operational
+A0121,Lift,Station B,2019-04-22,Medium,Operational
+A0122,Ticket Gate,Station G,2011-05-26,High,Operational
+A0123,Ticket Gate,Station J,2010-06-10,Low,Operational
+A0124,Escalator,Station F,2016-09-12,Medium,Operational
+A0125,Ticket Gate,Station I,2022-04-01,Low,Operational
+A0126,Ticket Gate,Station D,2016-02-14,Medium,Operational
+A0127,Ticket Gate,Station F,2019-01-26,Low,Operational
+A0128,Ticket Gate,Station C,2023-12-16,Low,Operational
+A0129,Ticket Gate,Station J,2022-08-29,Low,Operational
+A0130,Platform Equipment,Station G,2013-01-16,Medium,Operational
+A0131,Ticket Machine,Station G,2017-05-05,High,Operational
+A0132,Ticket Machine,Station G,2016-03-29,Medium,Operational
+A0133,Escalator,Station H,2010-06-08,Low,Operational
+A0134,Ticket Machine,Station D,2024-07-31,High,Operational
+A0135,Platform Equipment,Station A,2010-09-12,High,Operational
+A0136,Escalator,Station J,2013-06-02,High,Operational
+A0137,Platform Equipment,Station B,2022-08-26,High,Operational
+A0138,Ticket Machine,Station F,2013-10-06,Low,Operational
+A0139,Platform Equipment,Station B,2013-09-03,Medium,Operational
+A0140,Escalator,Station E,2022-11-30,Low,Out of Service
+A0141,Ticket Gate,Station G,2014-06-13,High,Operational
+A0142,Platform Equipment,Station D,2012-04-14,Low,Operational
+A0143,Platform Equipment,Station J,2012-09-18,Low,Operational
+A0144,Ticket Machine,Station I,2019-08-11,Low,Operational
+A0145,CCTV,Station F,2010-04-14,Medium,Operational
+A0146,Escalator,Station G,2018-02-15,Low,Operational
+A0147,Ticket Gate,Station C,2019-10-08,High,Operational
+A0148,Platform Equipment,Station E,2023-10-25,Low,Operational
+A0149,Ticket Gate,Station G,2023-04-16,Medium,Operational
+A0150,Lift,Station B,2016-04-03,Medium,Operational
+A0151,Ticket Gate,Station J,2023-09-09,Low,Operational
+A0152,Escalator,Station H,2017-04-16,High,Operational
+A0153,Ticket Machine,Station E,2017-08-20,Medium,Operational
+A0154,Platform Equipment,Station E,2022-06-20,High,Operational
+A0155,Lift,Station B,2015-06-01,Low,Operational
+A0156,CCTV,Station D,2020-09-05,Low,Operational
+A0157,Ticket Gate,Station A,2012-02-02,Medium,Operational
+A0158,Platform Equipment,Station D,2016-11-13,Low,Operational
+A0159,Ticket Gate,Station I,2021-11-28,Medium,Operational
+A0160,Platform Equipment,Station I,2017-06-02,Medium,Operational
+A0161,Ticket Machine,Station E,2015-08-22,High,Operational
+A0162,Lift,Station F,2012-09-06,Low,Operational
+A0163,Platform Equipment,Station C,2014-04-19,High,Operational
+A0164,Ticket Machine,Station J,2021-10-07,Low,Operational
+A0165,Escalator,Station D,2016-08-23,High,Operational
+A0166,Ticket Machine,Station A,2021-12-24,High,Operational
+A0167,Escalator,Station I,2016-07-21,Low,Under Maintenance
+A0168,Platform Equipment,Station H,2012-04-20,High,Operational
+A0169,Ticket Gate,Station H,2019-11-18,Medium,Operational
+A0170,Escalator,Station E,2020-09-18,High,Operational
+A0171,Ticket Gate,Station H,2011-08-30,Low,Operational
+A0172,Escalator,Station C,2013-05-07,Low,Under Maintenance
+A0173,Escalator,Station D,2012-08-28,Low,Operational
+A0174,CCTV,Station J,2023-11-15,High,Operational
+A0175,Ticket Gate,Station H,2019-12-06,Medium,Operational
+A0176,Ticket Gate,Station E,2022-10-03,Low,Operational
+A0177,Platform Equipment,Station B,2014-08-30,Low,Operational
+A0178,Platform Equipment,Station B,2013-07-10,High,Operational
+A0179,Escalator,Station C,2010-01-22,Medium,Operational
+A0180,CCTV,Station H,2016-07-13,High,Operational
+A0181,Platform Equipment,Station E,2020-03-08,High,Operational
+A0182,Ticket Machine,Station J,2024-10-30,High,Operational
+A0183,CCTV,Station D,2024-07-11,High,Out of Service
+A0184,Lift,Station B,2011-05-04,High,Operational
+A0185,CCTV,Station J,2016-06-22,Medium,Operational
+A0186,Platform Equipment,Station E,2019-01-11,Medium,Operational
+A0187,Ticket Gate,Station H,2011-10-21,Low,Operational
+A0188,Ticket Gate,Station F,2023-07-17,Medium,Operational
+A0189,Lift,Station J,2023-03-03,High,Under Maintenance
+A0190,Platform Equipment,Station E,2022-12-04,High,Operational
+A0191,Lift,Station H,2021-08-22,Low,Operational
+A0192,Ticket Machine,Station C,2023-02-17,Medium,Operational
+A0193,Ticket Gate,Station B,2020-07-17,Medium,Operational
+A0194,Ticket Machine,Station B,2013-08-10,Medium,Operational
+A0195,Ticket Gate,Station E,2024-11-10,Medium,Operational
+A0196,CCTV,Station A,2020-03-14,High,Operational
+A0197,Ticket Machine,Station B,2019-01-25,Low,Operational
+A0198,Escalator,Station I,2020-05-12,Medium,Operational
+A0199,CCTV,Station F,2023-12-19,Medium,Operational
+A0200,Escalator,Station D,2015-12-28,Low,Operational
+A0201,Ticket Machine,Station H,2020-11-14,High,Operational
+A0202,Platform Equipment,Station J,2015-05-15,Low,Operational
+A0203,CCTV,Station A,2022-05-22,Medium,Operational
+A0204,Escalator,Station H,2012-08-20,Low,Operational
+A0205,Ticket Gate,Station E,2021-05-31,Low,Operational
+A0206,Ticket Gate,Station H,2015-06-20,Medium,Operational
+A0207,Ticket Gate,Station D,2023-06-12,Low,Operational
+A0208,Lift,Station B,2016-03-13,Medium,Operational
+A0209,CCTV,Station E,2010-01-22,Medium,Operational
+A0210,CCTV,Station J,2024-10-20,Medium,Operational
+A0211,Ticket Gate,Station I,2020-11-11,Medium,Operational
+A0212,CCTV,Station G,2020-03-19,Medium,Operational
+A0213,Platform Equipment,Station D,2022-10-29,Medium,Operational
+A0214,Ticket Gate,Station A,2017-02-19,Low,Operational
+A0215,Ticket Gate,Station G,2024-08-16,High,Operational
+A0216,Escalator,Station C,2021-04-07,Low,Operational
+A0217,Escalator,Station H,2012-03-27,Low,Out of Service
+A0218,Escalator,Station C,2019-03-13,Low,Under Maintenance
+A0219,Escalator,Station H,2015-12-12,Medium,Operational
+A0220,Ticket Gate,Station B,2017-05-15,Low,Operational
+A0221,Ticket Gate,Station F,2024-01-22,Low,Operational
+A0222,Ticket Gate,Station I,2010-10-22,Low,Operational
+A0223,Platform Equipment,Station E,2015-02-07,Low,Operational
+A0224,Escalator,Station B,2019-12-14,High,Operational
+A0225,Escalator,Station A,2017-04-11,High,Operational
+A0226,Ticket Machine,Station G,2013-04-07,High,Operational
+A0227,CCTV,Station C,2013-10-24,High,Operational
+A0228,Ticket Gate,Station J,2015-05-27,Medium,Out of Service
+A0229,Lift,Station D,2020-05-05,Low,Operational
+A0230,Ticket Machine,Station A,2020-06-08,Medium,Operational
+A0231,Lift,Station B,2019-11-28,Medium,Under Maintenance
+A0232,Ticket Machine,Station G,2015-08-11,Medium,Operational
+A0233,Lift,Station G,2020-11-02,High,Operational
+A0234,CCTV,Station F,2022-11-22,Medium,Under Maintenance
+A0235,Ticket Machine,Station A,2024-10-06,Medium,Operational
+A0236,CCTV,Station A,2023-08-08,Low,Operational
+A0237,Ticket Machine,Station D,2023-08-14,Medium,Operational
+A0238,Lift,Station J,2015-08-16,Low,Operational
+A0239,Platform Equipment,Station C,2024-02-03,High,Out of Service
+A0240,Platform Equipment,Station A,2016-12-05,Medium,Operational
+A0241,Ticket Machine,Station C,2012-01-09,Medium,Operational
+A0242,Ticket Gate,Station C,2014-07-03,High,Operational
+A0243,Ticket Machine,Station I,2021-04-03,Medium,Operational
+A0244,Ticket Machine,Station H,2016-08-14,Low,Operational
+A0245,Escalator,Station H,2011-09-09,High,Operational
+A0246,Lift,Station G,2022-07-02,Medium,Operational
+A0247,Ticket Gate,Station A,2015-12-07,Low,Operational
+A0248,Ticket Machine,Station E,2023-02-10,Medium,Operational
+A0249,Ticket Machine,Station B,2015-03-31,Medium,Operational
+A0250,CCTV,Station F,2023-09-07,High,Operational
+A0251,Platform Equipment,Station H,2016-10-11,Low,Operational
+A0252,Lift,Station A,2010-11-01,Medium,Under Maintenance
+A0253,Escalator,Station B,2015-04-08,Low,Operational
+A0254,Ticket Gate,Station F,2022-02-12,Medium,Operational
+A0255,Platform Equipment,Station C,2019-04-22,Low,Operational
+A0256,Ticket Gate,Station J,2019-02-26,Medium,Operational
+A0257,Ticket Machine,Station D,2019-12-12,Medium,Under Maintenance
+A0258,Ticket Machine,Station B,2018-03-29,Low,Out of Service
+A0259,Platform Equipment,Station F,2011-05-12,Medium,Operational
+A0260,Escalator,Station H,2012-01-21,Low,Operational
+A0261,Platform Equipment,Station J,2010-06-24,High,Operational
+A0262,Lift,Station C,2022-08-31,High,Operational
+A0263,CCTV,Station D,2023-02-25,High,Operational
+A0264,Lift,Station F,2013-04-23,Low,Operational
+A0265,Lift,Station C,2022-02-12,Medium,Operational
+A0266,Escalator,Station A,2012-12-15,High,Operational
+A0267,Lift,Station J,2017-04-06,High,Operational
+A0268,Escalator,Station C,2019-06-11,Low,Operational
+A0269,Escalator,Station H,2020-01-21,Medium,Operational
+A0270,Escalator,Station H,2021-04-20,High,Under Maintenance
+A0271,Escalator,Station I,2016-10-06,Medium,Operational
+A0272,Escalator,Station A,2020-09-28,Medium,Operational
+A0273,Escalator,Station H,2019-12-13,High,Operational
+A0274,Ticket Machine,Station J,2013-04-30,High,Operational
+A0275,CCTV,Station J,2022-04-20,Low,Operational
+A0276,CCTV,Station I,2016-08-12,Medium,Operational
+A0277,Ticket Gate,Station B,2012-07-26,Low,Operational
+A0278,CCTV,Station D,2019-08-25,Medium,Operational
+A0279,Ticket Gate,Station F,2020-03-04,Medium,Operational
+A0280,Escalator,Station F,2019-07-29,Medium,Operational
+A0281,Ticket Machine,Station C,2020-08-21,High,Operational
+A0282,Escalator,Station B,2019-09-08,High,Operational
+A0283,Ticket Machine,Station C,2022-06-24,High,Operational
+A0284,CCTV,Station I,2017-05-24,Low,Operational
+A0285,Ticket Machine,Station G,2011-02-26,Medium,Operational
+A0286,Ticket Machine,Station B,2022-12-18,Low,Operational
+A0287,Platform Equipment,Station H,2015-01-12,High,Operational
+A0288,CCTV,Station F,2012-07-30,Medium,Operational
+A0289,Ticket Gate,Station I,2023-12-12,Low,Operational
+A0290,CCTV,Station A,2023-08-29,Low,Operational
+A0291,Ticket Machine,Station A,2014-01-17,Medium,Operational
+A0292,Ticket Machine,Station F,2017-11-15,High,Operational
+A0293,Lift,Station J,2024-09-28,Medium,Operational
+A0294,Platform Equipment,Station A,2012-01-22,Low,Operational
+A0295,Ticket Gate,Station G,2020-03-05,Medium,Operational
+A0296,Ticket Machine,Station F,2022-09-24,Low,Operational
+A0297,Escalator,Station C,2013-07-13,Low,Operational
+A0298,Escalator,Station E,2019-12-09,Low,Operational
+A0299,CCTV,Station H,2019-04-16,Medium,Operational
+A0300,CCTV,Station B,2017-09-28,Medium,Operational
+A0301,Platform Equipment,Station J,2020-11-30,Low,Operational
+A0302,Escalator,Station D,2018-11-12,Low,Operational
+A0303,Lift,Station E,2014-09-27,High,Operational
+A0304,Ticket Machine,Station F,2012-09-09,High,Operational
+A0305,Ticket Gate,Station C,2012-11-24,Medium,Operational
+A0306,Lift,Station I,2022-07-14,Low,Operational
+A0307,Escalator,Station G,2010-12-13,Medium,Operational
+A0308,Escalator,Station F,2022-11-30,Medium,Operational
+A0309,Platform Equipment,Station G,2016-06-29,High,Operational
+A0310,Ticket Machine,Station C,2023-11-12,Medium,Operational
+A0311,Ticket Machine,Station B,2019-10-18,High,Operational
+A0312,CCTV,Station G,2021-10-02,High,Operational
+A0313,Ticket Machine,Station F,2014-12-21,Medium,Operational
+A0314,Escalator,Station I,2024-03-15,High,Operational
+A0315,Lift,Station F,2017-11-16,Low,Under Maintenance
+A0316,Platform Equipment,Station C,2015-04-20,High,Operational
+A0317,Lift,Station C,2023-07-06,High,Operational
+A0318,Platform Equipment,Station B,2013-12-22,Low,Operational
+A0319,CCTV,Station J,2020-01-26,Low,Out of Service
+A0320,CCTV,Station J,2017-04-01,Low,Operational
+A0321,Ticket Gate,Station B,2020-07-08,Medium,Operational
+A0322,Ticket Machine,Station J,2011-04-06,Medium,Operational
+A0323,Ticket Machine,Station H,2020-02-20,High,Operational
+A0324,Ticket Machine,Station B,2024-06-17,High,Operational
+A0325,CCTV,Station G,2020-05-18,Low,Operational
+A0326,Platform Equipment,Station A,2020-02-02,Low,Operational
+A0327,Ticket Machine,Station J,2020-09-01,Low,Operational
+A0328,Escalator,Station H,2012-04-27,Medium,Under Maintenance
+A0329,Escalator,Station I,2024-06-29,High,Operational
+A0330,Platform Equipment,Station H,2019-11-09,Low,Operational
+A0331,Lift,Station F,2018-05-13,Medium,Operational
+A0332,Ticket Machine,Station J,2011-03-05,Low,Operational
+A0333,Escalator,Station F,2012-02-14,Low,Operational
+A0334,Ticket Machine,Station E,2024-09-22,Low,Operational
+A0335,Ticket Machine,Station B,2023-01-26,Low,Operational
+A0336,Ticket Machine,Station E,2024-09-18,Low,Operational
+A0337,Lift,Station J,2011-11-26,Medium,Operational
+A0338,Platform Equipment,Station F,2012-11-12,Low,Operational
+A0339,Platform Equipment,Station I,2012-02-05,Low,Operational
+A0340,CCTV,Station F,2010-05-30,Medium,Operational
+A0341,Lift,Station F,2020-11-27,High,Operational
+A0342,Lift,Station C,2011-09-25,Medium,Operational
+A0343,Escalator,Station I,2022-02-08,Low,Operational
+A0344,Escalator,Station F,2023-11-11,High,Operational
+A0345,Lift,Station C,2014-01-21,Low,Operational
+A0346,Lift,Station H,2010-12-24,Medium,Operational
+A0347,Platform Equipment,Station D,2019-12-18,Low,Operational
+A0348,Platform Equipment,Station H,2015-04-01,Low,Operational
+A0349,Ticket Gate,Station D,2018-04-02,Low,Under Maintenance
+A0350,Ticket Gate,Station H,2016-04-27,Medium,Operational
+A0351,Ticket Gate,Station C,2014-06-24,Low,Operational
+A0352,Ticket Machine,Station A,2024-05-19,Medium,Operational
+A0353,CCTV,Station B,2021-07-28,High,Operational
+A0354,Lift,Station E,2020-01-29,Low,Operational
+A0355,Ticket Gate,Station B,2014-12-24,Medium,Operational
+A0356,Escalator,Station G,2011-03-13,Medium,Operational
+A0357,Lift,Station G,2011-10-31,Medium,Operational
+A0358,Ticket Machine,Station B,2024-07-30,Medium,Operational
+A0359,Lift,Station A,2016-06-08,Medium,Operational
+A0360,Lift,Station H,2020-01-23,Low,Operational
+A0361,Escalator,Station A,2015-09-28,High,Operational
+A0362,CCTV,Station J,2021-11-02,Medium,Operational
+A0363,Ticket Machine,Station D,2016-10-03,High,Operational
+A0364,Ticket Gate,Station J,2020-04-02,High,Operational
+A0365,Ticket Gate,Station J,2022-01-09,High,Operational
+A0366,CCTV,Station D,2013-03-22,Medium,Operational
+A0367,CCTV,Station F,2015-05-25,Low,Operational
+A0368,Platform Equipment,Station B,2021-09-28,Medium,Operational
+A0369,CCTV,Station I,2021-05-19,Low,Operational
+A0370,Ticket Gate,Station H,2010-12-23,Low,Operational
+A0371,Ticket Machine,Station E,2010-05-14,Medium,Operational
+A0372,Ticket Machine,Station D,2024-09-26,Low,Operational
+A0373,CCTV,Station F,2012-12-28,High,Operational
+A0374,Ticket Machine,Station C,2020-06-03,Low,Operational
+A0375,Lift,Station C,2011-06-01,Low,Operational
+A0376,Ticket Gate,Station A,2016-07-31,High,Operational
+A0377,Lift,Station A,2017-01-29,Medium,Operational
+A0378,CCTV,Station H,2015-09-07,High,Operational
+A0379,Lift,Station E,2018-01-03,High,Operational
+A0380,Ticket Machine,Station E,2012-10-16,Medium,Operational
+A0381,Ticket Gate,Station H,2018-09-03,Medium,Under Maintenance
+A0382,Ticket Gate,Station H,2018-03-29,Low,Operational
+A0383,Escalator,Station G,2011-10-09,Medium,Operational
+A0384,Lift,Station I,2016-08-03,Medium,Operational
+A0385,Ticket Machine,Station E,2016-11-15,Medium,Operational
+A0386,Ticket Gate,Station C,2019-12-16,Medium,Operational
+A0387,Platform Equipment,Station F,2023-10-16,Medium,Operational
+A0388,Escalator,Station B,2024-04-19,Medium,Operational
+A0389,Platform Equipment,Station C,2010-09-13,High,Operational
+A0390,Platform Equipment,Station H,2010-10-13,High,Operational
+A0391,Platform Equipment,Station F,2018-02-14,Medium,Under Maintenance
+A0392,Escalator,Station J,2013-06-10,Low,Operational
+A0393,Ticket Machine,Station F,2019-12-16,High,Operational
+A0394,CCTV,Station F,2018-12-05,Medium,Operational
+A0395,Lift,Station B,2010-08-01,Low,Operational
+A0396,CCTV,Station G,2022-08-07,High,Operational
+A0397,Ticket Machine,Station H,2014-10-24,Low,Operational
+A0398,Ticket Gate,Station D,2012-10-01,High,Operational
+A0399,Ticket Gate,Station C,2019-12-26,High,Operational
+A0400,Ticket Machine,Station F,2011-06-16,Low,Operational
+A0401,Ticket Machine,Station C,2024-04-21,High,Operational
+A0402,CCTV,Station D,2012-09-21,High,Operational
+A0403,Lift,Station H,2010-08-04,Medium,Operational
+A0404,Ticket Machine,Station H,2022-05-17,High,Operational
+A0405,Escalator,Station B,2016-12-08,Medium,Under Maintenance
+A0406,Platform Equipment,Station H,2021-10-16,Medium,Operational
+A0407,CCTV,Station B,2012-10-23,Medium,Operational
+A0408,Ticket Gate,Station H,2021-08-09,Medium,Operational
+A0409,CCTV,Station J,2014-01-30,High,Operational
+A0410,Escalator,Station B,2021-08-15,High,Operational
+A0411,Lift,Station F,2015-01-22,Medium,Under Maintenance
+A0412,CCTV,Station E,2011-10-09,Medium,Operational
+A0413,CCTV,Station E,2012-10-22,Low,Operational
+A0414,CCTV,Station B,2021-04-10,Low,Operational
+A0415,CCTV,Station C,2013-11-03,Low,Operational
+A0416,CCTV,Station F,2022-08-23,High,Operational
+A0417,Escalator,Station B,2011-01-08,Low,Operational
+A0418,Ticket Machine,Station D,2022-10-31,Medium,Operational
+A0419,Escalator,Station H,2024-01-25,Low,Operational
+A0420,Ticket Machine,Station H,2015-06-30,Low,Operational
+A0421,Ticket Gate,Station B,2011-05-06,High,Operational
+A0422,Ticket Gate,Station H,2014-07-30,Medium,Operational
+A0423,Ticket Machine,Station F,2017-09-30,Medium,Operational
+A0424,Ticket Machine,Station I,2022-08-07,High,Operational
+A0425,Ticket Gate,Station B,2016-01-01,Medium,Operational
+A0426,Escalator,Station A,2016-07-05,Medium,Operational
+A0427,Ticket Gate,Station D,2013-08-01,Medium,Out of Service
+A0428,Platform Equipment,Station F,2014-04-05,High,Operational
+A0429,CCTV,Station H,2021-03-09,Medium,Operational
+A0430,Escalator,Station G,2021-05-03,Medium,Under Maintenance
+A0431,Lift,Station J,2017-11-30,High,Operational
+A0432,Ticket Gate,Station J,2024-09-03,Low,Operational
+A0433,CCTV,Station A,2012-05-30,Medium,Operational
+A0434,Ticket Machine,Station F,2019-01-17,Medium,Operational
+A0435,Escalator,Station J,2022-08-08,High,Operational
+A0436,Ticket Machine,Station B,2018-08-31,Low,Operational
+A0437,CCTV,Station E,2023-12-24,Low,Operational
+A0438,Lift,Station B,2018-11-01,Medium,Operational
+A0439,Ticket Machine,Station I,2018-03-15,High,Operational
+A0440,CCTV,Station G,2021-03-20,High,Operational
+A0441,Lift,Station F,2020-08-16,Low,Operational
+A0442,CCTV,Station I,2013-02-19,Medium,Out of Service
+A0443,Ticket Machine,Station C,2018-10-25,Low,Operational
+A0444,Ticket Machine,Station J,2017-07-18,Low,Operational
+A0445,CCTV,Station H,2022-08-17,Medium,Operational
+A0446,Escalator,Station F,2017-06-06,Low,Operational
+A0447,Ticket Gate,Station J,2016-11-25,Low,Operational
+A0448,Platform Equipment,Station A,2023-05-22,Medium,Operational
+A0449,Platform Equipment,Station J,2022-12-15,High,Operational
+A0450,CCTV,Station H,2013-10-28,Low,Operational
+A0451,CCTV,Station G,2013-04-25,Low,Operational
+A0452,CCTV,Station B,2014-04-12,High,Operational
+A0453,Ticket Gate,Station C,2019-04-06,Low,Operational
+A0454,CCTV,Station J,2020-07-30,Low,Operational
+A0455,Platform Equipment,Station C,2021-08-20,High,Operational
+A0456,Platform Equipment,Station H,2021-10-14,Medium,Operational
+A0457,Lift,Station H,2021-12-16,Medium,Operational
+A0458,Platform Equipment,Station E,2023-09-07,Medium,Operational
+A0459,Lift,Station E,2022-07-08,Medium,Operational
+A0460,Ticket Machine,Station E,2014-08-26,Low,Operational
+A0461,Ticket Machine,Station H,2017-10-28,Low,Out of Service
+A0462,Platform Equipment,Station E,2016-06-15,High,Operational
+A0463,CCTV,Station G,2018-11-07,Medium,Under Maintenance
+A0464,Lift,Station E,2010-12-11,Medium,Under Maintenance
+A0465,Escalator,Station F,2019-12-03,Low,Operational
+A0466,Ticket Gate,Station D,2014-07-14,Low,Operational
+A0467,CCTV,Station E,2013-01-29,High,Operational
+A0468,CCTV,Station D,2015-06-10,High,Operational
+A0469,CCTV,Station D,2024-04-23,High,Operational
+A0470,Ticket Gate,Station F,2020-08-05,High,Operational
+A0471,Lift,Station A,2022-05-06,High,Operational
+A0472,Ticket Gate,Station H,2024-08-04,High,Operational
+A0473,Ticket Machine,Station F,2016-05-27,Low,Operational
+A0474,Escalator,Station J,2015-03-18,Low,Operational
+A0475,Escalator,Station C,2019-05-17,High,Out of Service
+A0476,Escalator,Station G,2021-02-10,High,Out of Service
+A0477,Ticket Machine,Station A,2010-03-17,Medium,Operational
+A0478,Escalator,Station F,2016-05-20,Medium,Under Maintenance
+A0479,CCTV,Station I,2021-01-29,High,Operational
+A0480,Ticket Gate,Station E,2014-04-29,High,Operational
+A0481,Platform Equipment,Station H,2024-07-16,Medium,Operational
+A0482,Escalator,Station F,2016-08-13,Low,Operational
+A0483,Lift,Station C,2023-09-14,Low,Operational
+A0484,Ticket Gate,Station I,2017-05-10,High,Operational
+A0485,Escalator,Station C,2013-02-25,Medium,Operational
+A0486,Lift,Station A,2015-11-07,Medium,Operational
+A0487,Ticket Machine,Station F,2016-10-09,Low,Operational
+A0488,Escalator,Station E,2024-08-29,Medium,Operational
+A0489,Escalator,Station B,2020-06-09,Medium,Operational
+A0490,Platform Equipment,Station I,2016-12-22,Low,Operational
+A0491,Ticket Machine,Station F,2023-10-15,High,Operational
+A0492,Lift,Station H,2013-06-08,Medium,Operational
+A0493,CCTV,Station F,2019-04-30,Low,Operational
+A0494,Ticket Gate,Station I,2014-11-25,High,Operational
+A0495,CCTV,Station B,2021-10-14,Medium,Operational
+A0496,Ticket Machine,Station B,2022-08-27,High,Operational
+A0497,CCTV,Station I,2014-07-15,Low,Operational
+A0498,Lift,Station F,2021-09-02,Medium,Operational
+A0499,Lift,Station J,2020-12-18,High,Operational
+A0500,Ticket Gate,Station A,2020-03-03,High,Operational
